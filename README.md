@@ -11,7 +11,7 @@ Halo, saya Miftahul Khoiri, seorang individu yang memiliki minat besar di bidang
 ## Pendidikan
 - **S1 Informatika**  
   *ITSNU Pekalongan* - Graduation Date: 14 Oktober 2024  
-  Thesis: *"Sistem informasi pengelolaan umkm di kabupaten pekalongan menggunakan framework codeigniter"*
+  Thesis: *"IMPLEMENTASI SISTEM INFORMASI PENJUALAN UMKM KABUPATEN PEKALONGAN BERBASIS WEB MENGGUNAKAN FRAMEWORK CODEIGNITER"*
 
 ## Technical Skills
 - **pemrograman:** PHP
